@@ -1,0 +1,6 @@
+{
+    "COMPANY_NAME": "Test",
+    "CURRENCY": "Rs.",
+    "MAPPERS_PATH_ABS": "/mappers",
+    "TEMPLATES_PATH_ABS": "/templates"
+}
